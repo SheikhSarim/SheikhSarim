@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-  <img src="github-Profile.png" alt="logo">
+  <img src="githubProfile.png" alt="logo">
 </p>
 
 <hr>
@@ -15,11 +15,12 @@
 
 - 🕰️💪I am currently investing time in **skill improvement to excel in my profession.**
 
-- 🌱 I’m currently learning **The Aptech Certified Computer Professional (ACCP) course**
+- 🌱 Currently enrolled in the **The Aptech Certified Computer Professional (ACCP) course**
 
-- 👯 I’m working on **ASP .NET Project**
+- 👯 I am currently developing **Web APIs** as part of my ongoing projects.
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, PHP, C# ,.NET**
+
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, PHP, C# , ASP .NET ,Angular**
 
 - 📫 How to reach me **<sarimaw1120@gmail.com>**
 
